@@ -1,0 +1,35 @@
+h1{
+    
+    color: #0000FF;
+    font-size:50px;
+}
+.menu{
+    background:#FF00EF;
+    padding: 40px;
+    margin: 10px;
+    display:flex;
+    flex-wrap: wrap-reverse;
+    border-color:#FF00EF;
+
+    justify-content:space-around
+    
+}
+.image{
+    border: 2px solid #000000;
+    border-radius: 50px;
+}
+.origami{
+    border-radius:20px;
+    background-color: #FFFFFF;
+    padding :30px;
+    margin:25px;
+    width:300px;
+    font-family:fantasy;
+    
+} 
+.info{
+    background:#0000FF;
+    padding:30px;
+    border:2px solid #000000;
+    margin:30px;
+}
